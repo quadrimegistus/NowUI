@@ -5,7 +5,7 @@
   "homepage": "https://parallelam.github.io/NowUI/",
   "dependencies": {
     "bootstrap": "4.3.1",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "gh-pages": "^2.1.1",
     "moment": "2.24.0",
